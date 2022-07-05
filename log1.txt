@@ -1,0 +1,29 @@
+------------------------------------------------
+Iteration: 4
+Logged time: 2021-10-18 23:22:42
+Alert reported time: 2021-10-18 23:22:36
+Alert type: False Alert
+
+Reporting Node	Coordinates	Height(m)	
+0	(0, 0)	6040.319824
+
+Adjacent Nodes	Coordinates	Height(m)	
+2	(0, 1)	5962
+
+1	(1, 0)	5995
+
+
+Satelite altimeter reporting time: 2021-10-18 23:22:36
+Satelite altimeter reporting height (m): 6040.319824
+Satelite altimeter reporting Coordinates: (0, 0)
+
+Communication Time (seconds): 5.999339
+Total Messages send between reporting node and base station: 1
+Max. tolerance range between nodes readings (m): 100
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+------------------------------------------------
+Number of messages passed throughout the network when an alert is detected: 1
+Number of alerts
+	True: 0
+	False: 1
+Total communication time: 5.999339
